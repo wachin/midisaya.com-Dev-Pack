@@ -1,7 +1,3 @@
-Aquí tienes un tutorial mejorado para que sea más claro, organizado y atractivo para los lectores:
-
----
-
 # **Tutorial: Reproducción y Edición de Secuencias MIDI de Alabanza y Adoración**
 
 En este tutorial aprenderás a reproducir secuencias MIDI de Alabanza y Adoración en tu celular. Además, podrás ajustar el tono, velocidad y seleccionar los instrumentos que deseas escuchar mientras reproduces un archivo MIDI.
