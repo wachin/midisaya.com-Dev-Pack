@@ -12,10 +12,10 @@ Con este tutorial podrás reproducir secuencias MIDI de Alabanza y Adoración en
 
 Descarga lo necesario desde:
 
-## Midi File Player
+## Midi File Player (Android App)
 https://play.google.com/store/apps/details?id=net.volcanomobile.midifileplayer
 
-## MIDISAYA (Edgar A. Franco)
+## Secuencias MIDISAYA (Edgar A. Franco)
 https://github.com/wachin/midisaya.com-Dev-Pack/
 
 # FUENTES DE SONIDO
