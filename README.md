@@ -1,4 +1,4 @@
-# **Tutorial: Reproducción y Edición de Secuencias MIDI de Alabanza y Adoración**
+# Tutorial: Reproducción y Edición de Secuencias MIDI de Alabanza y Adoración (MIDISAYA)
 
 En este tutorial aprenderás a reproducir secuencias MIDI de Alabanza y Adoración en tu celular. Además, podrás ajustar el tono, velocidad y seleccionar los instrumentos que deseas escuchar mientras reproduces un archivo MIDI.
 
@@ -10,6 +10,7 @@ He organizado estas secuencias en GitHub para facilitar su acceso y manejo:
 [**Secuencias MIDISAYA en GitHub**](https://github.com/wachin/midisaya.com-Dev-Pack/).
 
 ---
+# Reproducción de MIDISAYA en Celular Android
 
 ## **Paso 1: Descarga e instala las herramientas necesarias**
 ### **1. App para reproducir MIDI: MIDI File Player**
@@ -56,3 +57,10 @@ Para mejorar la calidad del sonido, necesitarás instalar **SoundFonts** (fuente
 Este enfoque te permite personalizar y practicar las secuencias MIDI de Alabanza y Adoración según tus necesidades, ya sea para ensayos, presentaciones o devocionales. Además, aprovechas herramientas gratuitas y fácilmente accesibles.
 
 ---
+
+
+# TUTORIALES POR HACER 
+
+# Reproducción de MIDISAYA en WINDOWS
+
+# Reproducción de MIDISAYA en LINUX
