@@ -1,6 +1,6 @@
 # Midis de Alabanza y Adoración (MIDISAYA)
 
-**Descargados desde el Facebook de Edgar A. Franco:**
+## Descargados desde el Facebook de Edgar A. Franco:
 https://www.facebook.com/groups/midisaya/permalink/2873074299431938/
 
 Antes existía una página web donde estaban estas secuencias MIDI, pero Edgar A. Franco (quien había creado esa página) publicó todo en una publicación en Facebook, de allí los descargué.
@@ -12,10 +12,10 @@ Con este tutorial podrás reproducir secuencias MIDI de Alabanza y Adoración en
 
 Descarga lo necesario desde:
 
-**Midi File Player**
+## Midi File Player
 https://play.google.com/store/apps/details?id=net.volcanomobile.midifileplayer
 
-**MIDISAYA (Edgar A. Franco)**
+## MIDISAYA (Edgar A. Franco)
 https://github.com/wachin/midisaya.com-Dev-Pack/
 
 # FUENTES DE SONIDO
