@@ -7,6 +7,8 @@ Las secuencias MIDI utilizadas en este tutorial provienen de **MIDISAYA**, cread
 [**Ver publicación en Facebook**](https://www.facebook.com/groups/midisaya/permalink/2873074299431938/).
 
 He organizado estas secuencias en GitHub para facilitar su acceso y manejo:  
+
+## Descarga
 [**Secuencias MIDISAYA en GitHub**](https://github.com/wachin/midisaya.com-Dev-Pack/).
 
 ---
