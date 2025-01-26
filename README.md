@@ -61,7 +61,7 @@ Este enfoque te permite personalizar y practicar las secuencias MIDI de Alabanza
 ---
 
 
-# TUTORIALES POR HACER 
+# TUTORIALES QUE ME FALTAN POR HACER 
 
 # Reproducción de MIDISAYA en WINDOWS
 
