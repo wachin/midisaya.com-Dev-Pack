@@ -56,5 +56,3 @@ Para mejorar la calidad del sonido, necesitarás instalar **SoundFonts** (fuente
 Este enfoque te permite personalizar y practicar las secuencias MIDI de Alabanza y Adoración según tus necesidades, ya sea para ensayos, presentaciones o devocionales. Además, aprovechas herramientas gratuitas y fácilmente accesibles.
 
 ---
-
-Si tienes preguntas o necesitas ayuda, no dudes en comentar. ¡Espero que este tutorial te sea de gran utilidad!
