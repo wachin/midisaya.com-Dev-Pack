@@ -1,6 +1,6 @@
 # Tutorial: Reproducción y Edición de Secuencias MIDI de Alabanza y Adoración (MIDISAYA)
 
-En este tutorial aprenderás a reproducir secuencias MIDI de Alabanza y Adoración en tu celular. Además, podrás ajustar el tono, velocidad y seleccionar los instrumentos que deseas escuchar mientras reproduces un archivo MIDI.
+En este tutorial aprenderás a reproducir secuencias MIDI de Alabanza y Adoración (MIDISAYA). Además, podrás ajustar el tono, velocidad y seleccionar los instrumentos que deseas escuchar mientras reproduces un archivo MIDI.
 
 ## **¿De dónde provienen las secuencias MIDI?**
 Las secuencias MIDI utilizadas en este tutorial provienen de **MIDISAYA**, creadas y compartidas originalmente por **Edgar A. Franco**. Antes, estas secuencias estaban disponibles en una página web, pero ahora pueden descargarse desde una publicación en el grupo de Facebook de Edgar A. Franco:  
