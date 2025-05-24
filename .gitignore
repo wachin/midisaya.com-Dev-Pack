@@ -1,0 +1,77 @@
+####################################
+# Archivos temporales y de respaldo
+####################################
+*~                             # Archivos temporales comunes (Kate, Inkscape)
+*.bak                          # Respaldos
+*.tmp                          # Temporales del sistema
+*.temp                         # Temporales de WPS Office
+*.swp                          # Swap de Vim
+*.swo                          # Swap de Vim
+*.swn                          # Otro swap de Vim
+*.un~                          # Respaldos de Emacs
+*.backup                       # Respaldos genéricos
+*.old                          # Archivos antiguos
+*.orig                         # Archivos de fusión/merge fallida
+
+####################################
+# Archivos de bloqueo y autosave
+####################################
+~$*                            # Archivos temporales de LibreOffice/MS Office
+.~lock.*#                      # Bloqueos de LibreOffice/WPS Office
+
+####################################
+# Archivos ocultos y directorios de configuración
+####################################
+.cache/                        # Caché del sistema
+.thumbnails/                   # Miniaturas
+*.thumbnails                   # Archivos de miniaturas
+.wps/                          # Configuración de WPS Office
+.gimp-2.x/                     # Configuración de GIMP
+.idea/                         # Configuración de JetBrains (PyCharm, etc.)
+.vscode/                       # Configuración de Visual Studio Code
+*.code-workspace              # Workspaces de VS Code
+*.sublime-*                    # Configuración de Sublime Text
+
+####################################
+# Documentos temporales y editores de oficina
+####################################
+# LibreOffice, Microsoft Office, WPS Office
+*.~*                           # Archivos intermedios de office
+*.tmp                          # Temporales comunes
+*.autosave                    # Archivos de autoguardado
+
+####################################
+# Archivos de GIMP
+####################################
+*.xcf                          # Archivos de proyecto de GIMP
+*.xvp                          # Vistas previas de GIMP
+
+####################################
+# Archivos de Inkscape
+####################################
+*.svgz                         # SVG comprimido
+*.bak.svg                      # Respaldos de SVG
+
+####################################
+# Archivos de logs
+####################################
+*.log                          # Archivos de log
+
+####################################
+# Archivos intermedios y de preview para Markdown y documentación
+####################################
+*.html                         # HTML generado desde Markdown
+*.pdf                          # PDF generado (si no forma parte del repo)
+*.aux                          # Archivos LaTeX
+*.out
+*.toc
+*.synctex.gz
+*.bbl
+*.blg
+
+####################################
+# Otros
+####################################
+.DS_Store                      # macOS
+Thumbs.db                      # Windows
+desktop.ini                   # Windows
